@@ -5,7 +5,7 @@ This is tensorflow implementation for cvpr2017 paper "Deeply Supervised Salient 
 https://drive.google.com/open?id=0B6l9O8aWij8fUGtVNldUTXA4eHc
 
 <h3>Usage</h3>
-1. Download pretrained model and put them under folder "salience_model" ,(need to create folder yourself)
+1. Download pretrained model and put them under folder "salience_model" ,(need to create folder yourself)<br />
 2. run code<br />
 If you want to test whole folder images, run this:<br />
 
