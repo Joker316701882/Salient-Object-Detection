@@ -18,4 +18,6 @@ If you want to test only one image,run this:<br />
 sample:<br />
 ->python inference.py --rgb=animal1.jpg<br />
 
+<h3>Sample</h3>
+![alt text](https://github.com/Joker316701882/Salience-Object-Detection/blob/master/samples/1.png)
 more detail please read source code.
