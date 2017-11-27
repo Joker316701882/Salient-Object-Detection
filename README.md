@@ -19,5 +19,5 @@ sample:<br />
 ->python inference.py --rgb=animal1.jpg<br />
 
 <h3>Sample</h3>
-![alt text](https://github.com/Joker316701882/Salience-Object-Detection/blob/master/samples/1.png)
+![Sample](https://github.com/Joker316701882/Salience-Object-Detection/blob/master/samples/1.png) <br />
 more detail please read source code.
