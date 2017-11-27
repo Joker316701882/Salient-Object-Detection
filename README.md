@@ -20,6 +20,6 @@ sample:<br />
 
 <h3>Sample</h3>
 
-![Sample](samples/1.png width="200" height="200")
+![Sample](samples/1.png = 400x250)
 
 more detail please read source code.
