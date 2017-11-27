@@ -19,5 +19,5 @@ sample:<br />
 ->python inference.py --rgb=animal1.jpg<br />
 
 <h3>Sample</h3>
-![Sample](./samples/1.png) <br />
+![Sample](samples/1.png)
 more detail please read source code.
