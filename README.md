@@ -1,4 +1,4 @@
-# Salience-Object-Detection
+# Salient-Object-Detection
 This is tensorflow implementation for cvpr2017 paper "Deeply Supervised Salient Object Detection with Short Connections"
 
 <h3>Pretrained Model</h3>
