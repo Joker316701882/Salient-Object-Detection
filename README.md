@@ -37,3 +37,9 @@ python inference.py --rgb=animal1.jpg
 ![Sample](samples/1.png)
 
 more detail please read source code.
+
+
+### 2018-03-02
+
+I'm considering to open source training code recently(in several months), but to be honest, I don't understand why this model works so well(even there is some mis-using of tensorflow, but it works..). 
+
