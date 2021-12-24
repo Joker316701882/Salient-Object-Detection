@@ -2,7 +2,7 @@
 This is tensorflow implementation for cvpr2017 paper "Deeply Supervised Salient Object Detection with Short Connections"
 
 <h3>Pretrained Model</h3>
-https://drive.google.com/open?id=0B6l9O8aWij8fUGtVNldUTXA4eHc
+https://drive.google.com/drive/folders/0B6l9O8aWij8fUGtVNldUTXA4eHc?resourcekey=0-h1RonqWwyH-Z0jgRLVC4mQ&usp=sharing
 
 <h3>Usage</h3>
 1. Download pretrained model and put them under folder "salience_model" ,(need to create folder yourself)<br />
